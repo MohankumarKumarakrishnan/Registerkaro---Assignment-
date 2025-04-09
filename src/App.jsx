@@ -1,5 +1,3 @@
-
-import './App.css';
 import Navbar from './components/Navbar/Navbar';
 import Highlight from './components/Highlight'
 import ChooseSection from './components/ChooseSection';
